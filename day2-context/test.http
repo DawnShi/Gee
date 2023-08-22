@@ -1,0 +1,11 @@
+###
+GET http://localhost:9999/
+
+###
+GET http://localhost:9999/hello?name=geektutu
+
+###
+POST http://localhost:9999/login?username=geektutu&password=1234
+
+###
+POST http://localhost:9999/xxx
